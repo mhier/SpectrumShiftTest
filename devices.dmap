@@ -1,0 +1,4 @@
+@LOAD_LIB /home/mhier/ChimeraTK/install/lib/libChimeraTK-DeviceAccess-DoocsBackend.so
+#VS	(doocs:XFEL.RF/LLRF.CONTROLLER/VS.GUN.I1)
+#VS	(doocs:XFEL.RF/LLRF.CONTROLLER/VS.A0)
+VS	(doocs:TEST.DOOCS/LOCALHOST_610498009/VS.TEST)
